@@ -56,15 +56,20 @@ To  place a hole on a grid you must press 'SPACE'. Use arrow keys to move around
 Other options:
 
 2) Load grid - Load existing already created grid from the tape.
+
 3) Save grid - Save created grid from the memory to the tape.
+
 4) Edit grid. You can edit grid, which was saved before. It may be incomplete.
+
 5) Write text - using the grid you can write texts just like you do on the paper. You type letters, and they appear in the right grid holes, then grid gets turned 90 degrees clockwise, you see more empty cells and type letters again. When there's no more space the grid turnes again. Until you fill the whole grid.
 
-If you have made a mistake, just press 'BACKSPACE' or 'LEFT ARROW'.
+If you have made a mistake, press 'backspace' or 'left arrow'.
+
 Press any key when once empty cells are filled with letters and you need to turn the grid by 90 degrees again.
 
 Then you can save encrypted text to the tape. This text can be decrypted with the grid, it was encrypted with.
 
 6) Read text. Load it from tape. U can read encrypted text only if you have corresponding grid (key).
+
 7) quit the program.
 
