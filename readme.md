@@ -5,19 +5,19 @@ gridOric is a small fun program for Oric Atmos or Pravetz-8D, which I have been 
 
 ![gridoric](http://norayr.am/RetroComputing/Oric/gridoric/screenshot.png)
 
-The program helps to create a good cryptographic grid(key). With this grid it is possible to write and read encrypted texts. Grid as well as encrypted texts can be saved on tape.
+The program helps to create a good cryptographic [grille](https://en.wikipedia.org/wiki/Grille_(cryptography)). Then the created grille can be used to write and read encrypted texts. Grille as well as encrypted texts can be saved on tape.
 
 Story
 =====
-When I was a kid, I loved short stories about Sherlock Holmes. After I have read "The Adventure of the Dancing Men" by Sir Arthur Conan Doyle, by using the same technique, I was able to decrypt and read old texts found in notebooks of one of my old relatives. My mother was not happy about that, and to distract me from that, she said there are more advanced encryption methods and suggested to read Mathias Sandorf by Jules Verne to learn about them.
+When I was a kid, I loved short stories about Sherlock Holmes. After I have read "The Adventure of the Dancing Men" by Sir Arthur Conan Doyle, by using the same technique, I was able to decrypt and read old texts found in the notebooks of one of my old relatives. My mother was not happy about that, and to distract me from that, she said there are more advanced encryption methods and suggested to read Mathias Sandorf by Jules Verne to learn about them.
 
-The grid used in the book is very good one. It was not easy for me to design equally good grid to use with my friends at school. Back then, in early nineties I was not able to program something like this to help me to create a good grid.
+The grille from the book is very good one. It was not easy for me to design equally good grid to use with my friends at school. Back then, in early nineties I was not able to program something like this to help me to create a good grid.
 
-Then years after, I wanted to represent Oric community at MiniGame Compo, and have been written this program. It has two modes - grid designer, and text encryption mode. I was not able to fit in to 4kbs the decrypting part.
+Then years after, I wanted to represent Oric community at MiniGame Compo, and have been written this program. It has two modes - grille designer mode, and text encryption mode. I was not able to fit the decrypting part in to the required 4k output file. Though now I believe it is quite possible. (:
 
 Running
 =======
-To load the program just type:
+To load the program in the [xeuphoric](http://www.teaser.fr/~amajorel/xeuphoric/) emulator type:
 ```
 CLOAD "GRID.TAP"
 ```
